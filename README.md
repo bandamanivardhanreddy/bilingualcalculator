@@ -1,5 +1,7 @@
-<p align="center">
-  <img src="assets/bilingual-calculator-logo.png" alt="Bilingual Calculator lion logo" width="190">
+  <p align="center">
+  <img src="assets/bilingual-calculator-logo.png"
+       alt="Bilingual Calculator logo"
+       width="190">
 </p>
 
 <h1 align="center">Bilingual Calculator</h1>
